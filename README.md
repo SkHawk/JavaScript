@@ -1,2 +1,2 @@
 # JavaScript
-Some examples that I make with the p5 library
+Some examples that I made with the p5 library
